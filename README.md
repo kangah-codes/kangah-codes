@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Pygame" width="80px" src="https://duckduckgo.com/i/d87f8c8a.gif" />
 <img align="left" alt="Sublime" width="26px" src="https://duckduckgo.com/i/fb1795e6.png" />
-<img align="left" alt="App Engine" width="80px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/cloud/images/cloud-logo.svg" />
+<img align="left" alt="App Engine" width="100px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/cloud/images/cloud-logo.svg" />
 <img align="left" alt="Heroku" width="80px" src="https://duckduckgo.com/i/34840fda.png" />
-<img align="left" alt="Arduino" width="26px" src="https://duckduckgo.com/i/72be8836.png" />
+<img align="left" alt="Arduino" width="35px" src="https://duckduckgo.com/i/72be8836.png" />
 
 <br />
 <br />
