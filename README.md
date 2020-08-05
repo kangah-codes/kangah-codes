@@ -1,32 +1,3 @@
-<style>
-@media (prefers-reduced-motion: no-preference) {
-  .react {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-@keyframes spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}@media (prefers-reduced-motion: no-preference) {
-  .react {
-    animation: spin infinite 20s linear;
-  }
-}
-
-@keyframes spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}  
-</style>
 
 ### Hi there 👋, I'm Joshua
 
