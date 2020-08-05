@@ -52,12 +52,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kangah-codes&show_icons=true&hide_border=true&count_private=true" />
 
 [web]: https://joshua.thecodekangaroo.com/
