@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Pygame" width="80px" src="https://duckduckgo.com/i/d87f8c8a.gif" />
 
 <br />
+<br />
 
 <img align="left" alt="Sublime" width="26px" src="https://duckduckgo.com/i/fb1795e6.png" />
 <img align="left" alt="App Engine" width="80px" src="https://www.gstatic.com/devrel-devsite/prod/va2f579f943e40687d02fe75a771878e054c901286ea550f8e49c5efb402dac68/cloud/images/cloud-logo.svg" />
@@ -54,8 +55,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Arduino" width="26px" src="https://duckduckgo.com/i/72be8836.png" />
 <img align="left" alt="CPP" width="26px" src="https://duckduckgo.com/i/759a5cf7.png" />
 <img align="left" alt="C" width="26px" src="https://duckduckgo.com/i/a5b1dab3.png" />
-<img align="left" alt="Java" width="80px" src="https://github.com/topics/java/java.png" />
-
 
 <br />
 <br />
