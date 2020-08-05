@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="The Code Kangaroo" width="22px" src="https://joshua.thecodekangaroo.com/images/ico/favicon.png" />][https://joshua.thecodekangaroo.com/]
+[<img align="left" alt="The Code Kangaroo" width="22px" src="https://joshua.thecodekangaroo.com/images/ico/favicon.png" />][web]
 [<img align="left" alt="The Code Kangaroo" width="22px" src="https://www.thecodekangaroo.com/static/img/favicon-dark.png" />][website]
 [<img align="left" alt="Joshua Richmond Akangah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kanga.py | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kangah-codes&show_icons=true&hide_border=true&count_private=true" />
 
+[web]: https://joshua.thecodekangaroo.com/
 [website]: https://www.thecodekangaroo.com
 [instagram]: https://www.instagram.com/kanga.py/
 [linkedin]: kedin.com/in/joshua-akangah-b94673162/
