@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 [web]: https://joshua.thecodekangaroo.com/
 [website]: https://www.thecodekangaroo.com
 [instagram]: https://www.instagram.com/kanga.py/
-[linkedin]: kedin.com/in/joshua-akangah-b94673162/
+[linkedin]: https://www.linkedin.com/in/joshua-akangah-b94673162/
