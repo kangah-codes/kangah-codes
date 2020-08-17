@@ -66,6 +66,9 @@ Here are some ideas to get you started:
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kangah-codes&show_icons=true&hide_border=true&count_private=true" />
 
+<br />
+<br />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=kangah-codes&color=blue)
 
 [web]: https://joshua.thecodekangaroo.com/
