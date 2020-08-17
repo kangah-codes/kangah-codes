@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ReactJs and Django
 - ⚡ Fun fact: I love rockets!
 
+![Profile Views](https://komarev.com/ghpvc/?username=kangah-codes&color=blue)
+
 ### Connect with me:
 
 [<img align="left" alt="The Code Kangaroo" width="22px" src="https://joshua.thecodekangaroo.com/images/ico/favicon.png" />][web]
@@ -69,7 +71,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=kangah-codes&color=blue)
 
 [web]: https://joshua.thecodekangaroo.com/
 [website]: https://www.thecodekangaroo.com
