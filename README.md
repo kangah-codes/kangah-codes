@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a student, programmer, writer and everything in between!
 - 🔭 I’m currently a freelancer & software development intern
-- 🌱 I’m currently learning ReactJs and Django
+- 🌱 I’m currently learning ReactJs and NodeJs
 - ⚡ Fun fact: I love rockets!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kangah-codes&color=blue)
