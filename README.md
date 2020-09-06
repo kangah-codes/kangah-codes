@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## I'm a student, programmer, writer and everything in between!
 - 🔭 I’m currently a freelancer & software development intern
+- 🔭 I’m currently working on [a game][game]
 - 🌱 I’m currently learning ReactJs and NodeJs
 - ⚡ Fun fact: I love rockets!
 
-![Profile Views](https://komarev.com/ghpvc/?username=kangah-codes&color=blue)
 
 ### Connect with me:
 
@@ -90,3 +90,4 @@ Here are some ideas to get you started:
 [website]: https://www.thecodekangaroo.com
 [instagram]: https://www.instagram.com/kanga.py/
 [linkedin]: https://www.linkedin.com/in/joshua-akangah-b94673162/
+[game]: https://github.com/kangah-codes/indie-game-concept/
