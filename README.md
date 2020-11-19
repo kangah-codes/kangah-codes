@@ -79,6 +79,8 @@ Here are some ideas to get you started:
   <img align="left" alt="PostMan" width="26px" src="https://www.postman.com/favicon-32x32.png" />
   <img align="left" alt="Mongo" width="26px" src="https://cloud.mongodb.com/static/images/favicon.ico" />
   <img align="left" alt="Mongo" width="26px" style="border-radius: 2px" src="https://avatars1.githubusercontent.com/u/14985020?s=200&v=4" />
+  <img align="left" alt="Mongo" width="26px" style="border-radius: 2px" src="https://avatars0.githubusercontent.com/u/7892489?s=200&v=4" />
+  
   
   
 </div>
