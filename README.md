@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Ant Design" width="26px" src="https://camo.githubusercontent.com/cf05625198fe7b6ad8a302d1ce16bc99b93ec2ac/68747470733a2f2f6d6174657269616c2d75692e636f6d2f7374617469632f6c6f676f2e737667" />
 <img align="left" alt="Parse Server" width="26px" src="https://parseplatform.org/img/favicon/favicon-32x32.png" />
   <img align="left" alt="GCloud" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/v2210075187f059b839246c2c03840474501c3c6024a99fb78f6293c1b4c0f664/cloud/images/favicons/onecloud/favicon.ico" />
-  <img align="left" alt="PostMan" width="26px" src="<img align="left" alt="GCloud" width="26px" src="https://www.postman.com/favicon-32x32.png?v=13d51aa1bbfaacb557bf41b85783e441" />
+  <img align="left" alt="PostMan" width="26px" src="<img align="left" alt="GCloud" width="26px" src="https://www.postman.com/favicon-32x32.png" />
   <img align="left" alt="Mongo" width="26px" src="https://cloud.mongodb.com/static/images/favicon.ico" />
   
 </div>
