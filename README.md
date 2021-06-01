@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="The Code Kangaroo" width="22px" src="https://joshua.thecodekangaroo.com/images/ico/favicon.png" />][web]
-[<img align="left" alt="The Code Kangaroo" width="22px" src="https://www.thecodekangaroo.com/static/img/favicon-dark.png" />][website]
+# [<img align="left" alt="The Code Kangaroo" width="22px" src="https://joshua.thecodekangaroo.com/images/ico/favicon.png" />][web]
+# [<img align="left" alt="The Code Kangaroo" width="22px" src="https://www.thecodekangaroo.com/static/img/favicon-dark.png" />][website]
 [<img align="left" alt="Joshua Richmond Akangah | LinkedIn" width="22px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />][linkedin]
 [<img align="left" alt="kanga.py | Instagram" width="22px" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" />][instagram]
 
