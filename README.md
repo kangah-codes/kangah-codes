@@ -29,8 +29,12 @@ Here are some ideas to get you started:
 
 <br />
 
-[web]: https://joshua.thecodekangaroo.com/
-[website]: https://www.thecodekangaroo.com
+### My websites
+[kangah.codes][web]
+[akangah.tech][website]
+
+[web]: https://kangah.codes
+[website]: http://akangah.tech
 [instagram]: https://www.instagram.com/kanga.py/
 [linkedin]: https://www.linkedin.com/in/joshua-akangah-b94673162/
 [game]: https://github.com/kangah-codes/indie-game-concept/
