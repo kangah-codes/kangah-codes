@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a student, programmer, writer and everything in between!
-- 🔭 I’m currently a full stack developer
-- 🔭 I’m currently working on [a game][game] & a super secret project! 🤫
-- 🌱 I’m currently learning and working with NextJs, ReactJs and NodeJs.
-- ⚡ Fun fact: I love rockets!
+## About
+- Building the future of insurance in Africa @insurerity. #strictlyfrontend
 
 
 ### Connect with me:
@@ -29,12 +26,6 @@ Here are some ideas to get you started:
 
 <br />
 
-### My websites
-[kangah.codes][web]
-[akangah.tech][website]
-
-[web]: https://personal-website-z7ftbno2xq-an.a.run.app/
-[website]: https://personal-website-z7ftbno2xq-an.a.run.app/
+### Reach me
 [instagram]: https://www.instagram.com/kanga.py/
 [linkedin]: https://www.linkedin.com/in/joshua-akangah-b94673162/
-[game]: https://github.com/kangah-codes/indie-game-concept/
