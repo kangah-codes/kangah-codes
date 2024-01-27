@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## About
-- Building the future of insurance in Africa @insurerity. #strictlyfrontend
+- Building the future of online auctions @PurpleWave
 
 
 ### Connect with me:
