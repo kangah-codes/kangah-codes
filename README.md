@@ -2,6 +2,7 @@
 ### Hi there 👋, I'm Joshua
 
 - 🔭 Helping build the future of online auctions at @PurpleWave
+- 🥷🏿 Building Purple & Solo!
 - 💬 Ask me about Zamrock 🎸⚡️
 - 📫 How to reach me: akangah89@gmail.com
 - ⚡ Fun fact: I love cats! 😸
